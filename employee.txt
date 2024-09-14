@@ -1,0 +1,2 @@
+Employee 1 is  ,and salaray is 3000
+Employee 2 is oiii kcha  ,and salaray is 2000
